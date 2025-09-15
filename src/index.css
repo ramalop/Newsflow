@@ -1,0 +1,7 @@
+h1{
+    margin:35px 0;
+    margin-top: 90px;
+}
+.infinite-scroll-component {
+  overflow: hidden !important; /* prevents horizontal scroll */
+}
